@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/helloWord/routes/web.php</file>
+            <file>file:/C:/wamp64/www/helloWord/app/Http/Controllers/Painel/ProdutoController.php</file>
+            <file>file:/C:/wamp64/www/helloWord/resources/views/painel/products/create-edit.blade.php</file>
+            <file>file:/C:/wamp64/www/helloWord/app/Http/Controllers/Site/SiteController.php</file>
+            <file>file:/C:/wamp64/www/helloWord/public/assets/painel/css/style.css</file>
+            <file>file:/C:/wamp64/www/helloWord/resources/views/painel/products/show.blade.php</file>
+            <file>file:/C:/wamp64/www/helloWord/resources/views/painel/products/index.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
